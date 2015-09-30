@@ -1,0 +1,6 @@
+col = t:narrow(2,2,1)
+col = t:sub(1,3,2,2)
+col = t:select(2,2)
+
+Storage is a lump of memory
+Tensor is a type of storage where the program knows to interpret as a tensor (ie. it has dimensions)

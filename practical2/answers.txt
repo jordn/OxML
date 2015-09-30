@@ -1,0 +1,28 @@
+2. 
+
+1e3 epochs
+fertilizer  insecticide  corn	
+ 6            4          33.22	
+10            5          40.37	
+14            8          47.01	
+
+1e4 epochs 
+fertilizer  insecticide  corn	
+ 6            4          40.09	
+10            5          43.88	
+14            8          49.89	
+
+1e5 epochs
+fertilizer  insecticide  corn	
+ 6            4          40.32	
+10            5          44.03	
+14            8          49.96	
+
+
+3.
+ fertilizer  insecticide  corn	
+ 6            4            18.2182
+10            5           34.7773
+14            8            46.0400
+
+All lower.
